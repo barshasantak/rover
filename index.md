@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Desktop Rover: Your Workspace Companion 🐶
 
 ---
