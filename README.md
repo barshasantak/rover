@@ -1,1 +1,1 @@
-🐶 Desktop Rover's page is on https://barshasantak.github.io/rover/
+🐶 Desktop Rover's mission control quick start guide is on https://barshasantak.github.io/rover/
