@@ -1,4 +1,4 @@
-# Desktop Rover: Your New Workspace Companion
+# Desktop Rover: Your Workspace Companion
 
 ---
 
