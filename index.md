@@ -1,4 +1,4 @@
-# Desktop Rover: Your Workspace Companion
+# Desktop Rover: Your Workspace Companion 🐶
 
 ---
 
