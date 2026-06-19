@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-architect
+layout: default
 ---
 
 # Desktop Rover: Your Workspace Companion 🐶
