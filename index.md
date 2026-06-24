@@ -70,14 +70,12 @@ When a meeting ends or a major milestone is reached, take a moment to celebrate.
 ### Warm up your workspace.
 Your desktop doesn’t have to feel like just another tool. Bring a little more joy, balance, and companionship to your daily workflow. 
 
-
-
 ---
 
 ## 7. Help and Support
 
 ### Report Issues
-You can report any issues here: https://github.com/barshasantak/rover/issues
+You can report any issues here: [https://github.com/barshasantak/rover/issues](https://github.com/barshasantak/rover/issues)
 
 
 **Download Desktop Rover today and discover the difference a loyal companion makes.**
