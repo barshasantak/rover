@@ -60,8 +60,8 @@ Instead of a jarring system notification, imagine a soft animation of Rover nudg
 ### Deep Work Companionship
 During long hours of writing or development, Rover finds a quiet spot near the corner of your screen, sleeping peacefully while you focus, providing a sense of quiet company during solitary tasks.
 
-### The Window Perch
-You are deep into writing an email or debugging code when Rover wanders over, circles on top of your active application window, and settles down for an afternoon nap, turning a solitary task into a shared moment.
+### The Quiet Companion
+During late-night study or development sessions, Felix finds a cozy corner of your desktop, curled up fast asleep—providing a reassuring, silent companion in the quiet hours of the night.
 
 ---
 
