@@ -61,7 +61,7 @@ Instead of a jarring system notification, imagine a soft animation of Rover nudg
 During long hours of writing or development, Rover finds a quiet spot near the corner of your screen, sleeping peacefully while you focus, providing a sense of quiet company during solitary tasks.
 
 ### The Quiet Companion
-During late-night study or development sessions, Felix finds a cozy corner of your desktop, curled up fast asleep—providing a reassuring, silent companion in the quiet hours of the night.
+During late-night study or development sessions, Rover finds a cozy corner of your desktop, ever vigilant and always upto something, a silent companion in the quiet hours of the night.
 
 ---
 
