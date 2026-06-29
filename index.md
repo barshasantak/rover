@@ -76,6 +76,7 @@ Your desktop doesn’t have to feel like just another tool. Bring a little more 
 
 ### Report Issues
 You can report any issues here: [https://github.com/barshasantak/rover/issues](https://github.com/barshasantak/rover/issues)
-
-
+ 
+Coming Soon on App Store for MacOS 💻
+ 
 **Download Desktop Rover today and discover the difference a loyal companion makes.**
