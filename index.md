@@ -79,4 +79,4 @@ You can report any issues here: [https://github.com/barshasantak/rover/issues](h
  
 Coming Soon on App Store for MacOS 💻
  
-**Download Desktop Rover today and discover the difference a loyal companion makes.**
+**You can then download Desktop Rover and discover the difference a loyal companion makes.**
