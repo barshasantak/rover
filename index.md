@@ -81,6 +81,5 @@ Coming Soon on App Store for MacOS 💻
  
 **You can then download Desktop Rover and discover the difference a loyal companion makes.**
 
-🐱 Like Cats? You can also check out Desktop Felix - https://barshasantak.github.io/felix/
+🐱 Like Cats? You can also check out Desktop Felix - [https://barshasantak.github.io/felix/](https://barshasantak.github.io/felix/)
  
-
