@@ -38,7 +38,7 @@ Whenever you need a brief pause from work, you can interact with Rover or simply
 Built specifically for macOS, Desktop Rover operates with a light footprint. It monitors system resources, works harmoniously with multiple displays, and features an elegant menu bar controller for quick, unobtrusive customization.
 
 ### Helpful Menu
-![Rover Menu](https://github.com/barshasantak/rover/blob/main/rover_menu.jpg)
+![Rover Menu](https://raw.githubusercontent.com/barshasantak/rover/main/rover_menu.jpg)
 
 ---
 
