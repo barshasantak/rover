@@ -1,4 +1,4 @@
-# Your Workspace Companion 🐶
+# Your Loyal Workspace Companion 🐶
 
 ---
 
