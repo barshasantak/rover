@@ -1,8 +1,10 @@
-## Your Loyal Workspace Companion 🐶
+## Your Loyal Desktop Companion 🐶
 
 ---
 
 ## 1. Hero Section
+### Every Mac deserves a companion. 🍎
+We spend countless hours with our Macs - working, creating, coding, studying, and building. So why shouldn't our desktops feel a little more alive?
 
 ### Meet the Companion Your Mac Has Been Missing.
 *Desktop Rover brings a thoughtful, intelligent, and delightful virtual pet straight to your macOS workspace—blending quiet companionship with intuitive productivity tools.*
@@ -82,7 +84,7 @@ You can report any issues here: [https://github.com/barshasantak/rover/issues](h
  
 Coming Soon on App Store for MacOS 💻
  
-**You can then download Desktop Rover and discover the difference a loyal companion makes.**
+**You can adopt Rover and discover the difference a loyal companion makes.**
 
 🐱 Love cats? Meet Desktop Felix, your new digital companion. [https://barshasantak.github.io/felix/](https://barshasantak.github.io/felix/)
  
