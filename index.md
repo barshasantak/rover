@@ -75,6 +75,8 @@ During late-night study or development sessions, Rover finds a cozy corner of yo
 ### Warm up your workspace.
 Your desktop doesn’t have to feel like just another tool. Bring a little more joy, balance, and companionship to your daily workflow. 
 
+### 🐾 Adopt Rover on the Mac App Store and discover the difference a loyal companion makes: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/rover/main/app_store_black.png)](https://www.apple.com/app-store/)
+
 ---
 
 ## 7. Help and Support
@@ -82,9 +84,8 @@ Your desktop doesn’t have to feel like just another tool. Bring a little more 
 ### Report Issues
 You can report any issues here: [https://github.com/barshasantak/rover/issues](https://github.com/barshasantak/rover/issues)
  
-Coming Soon on App Store for MacOS 💻
  
-**You can adopt Rover and discover the difference a loyal companion makes.**
-
-🐱 Love cats? Meet Desktop Felix, your new digital companion. [https://barshasantak.github.io/felix/](https://barshasantak.github.io/felix/)
+---
+ 
+🐱 Love cats? Meet Desktop [Felix](https://barshasantak.github.io/felix/), your new digital companion.
  
