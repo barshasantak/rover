@@ -75,7 +75,7 @@ During late-night study or development sessions, Rover finds a cozy corner of yo
 ### Warm up your workspace.
 Your desktop doesn’t have to feel like just another tool. Bring a little more joy, balance, and companionship to your daily workflow. 
 
-### 🐾 Adopt Rover on the Mac App Store and discover the difference a loyal companion makes: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/rover/main/app_store_black.png)](https://www.apple.com/app-store/)
+### Adopt Rover and discover the difference a loyal companion makes: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/rover/main/app_store_black.png)](https://www.apple.com/app-store/)
 
 ---
 
