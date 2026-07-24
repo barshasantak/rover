@@ -52,6 +52,8 @@ Unlike traditional desktop widgets or static screen pets, Desktop Rover is built
 * **Crafted, Organic Motion:** Every movement is designed to feel natural and endearing. The physics engine ensures smooth transitions, making his presence feel tangible and integrated into your daily workspace.
 * **Elegant Utility:** By merging the emotional appeal of a virtual pet with practical tools like break reminders and timers, Desktop Rover serves a dual purpose as both a companion and a wellness aid.
 
+📺 Watch a 20 second preview on YouTube: [Desktop Rover](https://youtu.be/CN7QARjibgc?si=oHKnoX6924XBDhWj)
+ 
 ---
 
 ## 5. User Experience Highlights
