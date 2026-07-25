@@ -7,7 +7,7 @@
 We spend countless hours with our Macs - working, creating, coding, studying, and building. So why shouldn't our desktops feel a little more alive?
 
 ### Meet the Companion Your Mac Has Been Missing.
-*Desktop Rover brings a thoughtful, intelligent, and delightful virtual pet straight to your macOS workspace—blending quiet companionship with intuitive productivity tools.*
+*Rover brings a thoughtful, intelligent, and delightful virtual pet straight to your macOS workspace—blending quiet companionship with intuitive productivity tools.*
 
 ---
 
