@@ -68,7 +68,7 @@ Click the Dog Icon (🐶) in your macOS Menu Bar to open Rover's control station
     * Stretching: Triggers a continuous, looping preview of Rover's stretch and yawn cycle.
     * Overheated: Forces Rover's hot, exhausted sprawl posture.
     * Recovering: Forces Rover's post-heat yawn and sat sigh of relief.
-* Quit Rover: Quit the app
+* Quit Rover: Quit the app.
   
 ![Rover Menu](https://raw.githubusercontent.com/barshasantak/rover/main/rover_menu.jpg)
 
