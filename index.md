@@ -40,6 +40,36 @@ Whenever you need a brief pause from work, you can interact with Rover or simply
 Built specifically for macOS, Desktop Rover operates with a light footprint. It monitors system resources, works harmoniously with multiple displays, and features an elegant menu bar controller for quick, unobtrusive customization.
 
 ### Helpful Menu
+Click the Dog Icon (🐶) in your macOS Menu Bar to open Rover's control station:
+
+* About Rover: Opens a clean, retro-styled window displaying versioning, copyright information, and a custom close button.
+* Reset Rover Position: Teleports Rover back to the center of your active screen (extremely useful for multi-monitor setups if Rover wanders off-screen).
+* Pause / Resume Animation: Freezes Rover's frame loop when you need absolute, distraction-free focus.
+* Stretch Breaks: A dedicated wellness subsystem nested cleanly as a menu option:
+    * Enable Stretch Breaks: Toggles active timer tracking with checkmark indicators (✓). This setting persists automatically across system restarts.
+    * Preview Break: Instantly triggers a snappy, 4-second preview of Rover's stretch routine.
+* Resource Heatwave: An intelligent ambient system health monitor nested as a menu option:
+    * Enable Resource Heatwave: Toggles active CPU, Memory, and Thermal monitoring.
+    * CPU Trigger Threshold: Customize the target CPU utilization threshold (70%, 80%, or 90%).
+    * Memory Trigger Threshold: Customize the target system memory consumption threshold (75%, 85%, or 95%).
+    * Polling Interval: Configures how frequently system metrics are polled (10 Seconds, 20 Seconds, or 30 Seconds—with a safe 20-second default).
+    * Preview Heatwave: Triggers an instant 8-second demonstration of Rover's overheated animation and subsequent recovery sequence.
+* Keep Awake: A helper utility that prevents macOS from going to sleep or activating the screensaver for a selected duration.
+* Behavior Action (Manual State Overrides): Force Rover into any of his signature behavioral cycles for exactly 10 seconds before he automatically resumes his natural routine:
+    * Idle: Sits upright, pants, and wags his tail.
+    * Running: Classic, high-velocity running cycle.
+    * Sniffing: Low-snout floor tracking and shiver animations.
+    * Digging: Fast paw-shoveling with parabolic dirt particles that settle on the floor before dissolving.
+    * Scratching: Sits and rapidly scratches behind his floppy ear with a hind leg.
+    * Chasing Tail: Performs a comical 360 ∘ spin around his center pivot.
+    * Howling: Points his snout straight up and lets out a silent, dramatic howl.
+    * Sleeping: Lies flat, closes his eyes, and floats sleeping "Zzz" bubbles.
+    * Walking: A slow, realistic stroll.
+    * Stretching: Triggers a continuous, looping preview of Rover's stretch and yawn cycle.
+    * Overheated: Forces Rover's hot, exhausted sprawl posture.
+    * Recovering: Forces Rover's post-heat yawn and sat sigh of relief.
+* Quit Rover: Quit the app
+  
 ![Rover Menu](https://raw.githubusercontent.com/barshasantak/rover/main/rover_menu.jpg)
 
 ---
