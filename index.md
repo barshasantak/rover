@@ -42,20 +42,20 @@ Built specifically for macOS, Desktop Rover operates with a light footprint. It 
 ### Helpful Menu
 Click the Dog Icon (🐶) in your macOS Menu Bar to open Rover's control station:
 
-* About Rover: Opens a clean, retro-styled window displaying versioning, copyright information, and a custom close button.
-* Reset Rover Position: Teleports Rover back to the center of your active screen (extremely useful for multi-monitor setups if Rover wanders off-screen).
-* Pause / Resume Animation: Freezes Rover's frame loop when you need absolute, distraction-free focus.
-* Stretch Breaks: A dedicated wellness subsystem nested cleanly as a menu option:
+* __About Rover__: Opens a clean, retro-styled window displaying versioning, copyright information, and a custom close button.
+* __Reset Rover Position__: Teleports Rover back to the center of your active screen (extremely useful for multi-monitor setups if Rover wanders off-screen).
+* __Pause / Resume Animation__: Freezes/Resumes Rover's frame loop when you need absolute, distraction-free focus.
+* __Stretch Breaks__: A dedicated wellness subsystem nested cleanly as a menu option:
     * Enable Stretch Breaks: Toggles active timer tracking with checkmark indicators (✓). This setting persists automatically across system restarts.
     * Preview Break: Instantly triggers a snappy, 4-second preview of Rover's stretch routine.
-* Resource Heatwave: An intelligent ambient system health monitor nested as a menu option:
+* __Resource Heatwave__: An intelligent ambient system health monitor nested as a menu option:
     * Enable Resource Heatwave: Toggles active CPU, Memory, and Thermal monitoring.
     * CPU Trigger Threshold: Customize the target CPU utilization threshold (70%, 80%, or 90%).
     * Memory Trigger Threshold: Customize the target system memory consumption threshold (75%, 85%, or 95%).
     * Polling Interval: Configures how frequently system metrics are polled (10 Seconds, 20 Seconds, or 30 Seconds—with a safe 20-second default).
     * Preview Heatwave: Triggers an instant 8-second demonstration of Rover's overheated animation and subsequent recovery sequence.
-* Keep Awake: A helper utility that prevents macOS from going to sleep or activating the screensaver for a selected duration.
-* Behavior Action (Manual State Overrides): Force Rover into any of his signature behavioral cycles for exactly 10 seconds before he automatically resumes his natural routine:
+* __Keep Awake__: A helper utility that prevents macOS from going to sleep or activating the screensaver for a selected duration.
+* __Behavior Action__ (Manual State Overrides): Force Rover into any of his signature behavioral cycles for exactly 10 seconds before he automatically resumes his natural routine:
     * Idle: Sits upright, pants, and wags his tail.
     * Running: Classic, high-velocity running cycle.
     * Sniffing: Low-snout floor tracking and shiver animations.
@@ -68,8 +68,9 @@ Click the Dog Icon (🐶) in your macOS Menu Bar to open Rover's control station
     * Stretching: Triggers a continuous, looping preview of Rover's stretch and yawn cycle.
     * Overheated: Forces Rover's hot, exhausted sprawl posture.
     * Recovering: Forces Rover's post-heat yawn and sat sigh of relief.
-* Quit Rover: Quit the app.
-  
+* __Quit Rover__: Quit the app.
+
+   
 ![Rover Menu](https://raw.githubusercontent.com/barshasantak/rover/main/rover_menu.jpg)
 
 ---
