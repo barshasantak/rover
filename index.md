@@ -1,6 +1,6 @@
 ## Your Loyal Desktop Companion 🐶
 
----
+<br>
 
 ## 1. Hero Section
 ### Every Mac deserves a companion. 🍎
@@ -9,7 +9,7 @@ We spend countless hours with our Macs - working, creating, coding, studying, an
 ### Meet the Companion Your Mac Has Been Missing.
 *Rover brings a thoughtful, intelligent, and delightful virtual pet straight to your macOS workspace—blending quiet companionship with intuitive productivity tools.*
 
----
+<br>
 
 ## 2. Product Story
 
@@ -23,7 +23,7 @@ Whether he is napping on top of your active window, pacing across your Dock, or 
 
 By combining fluid, hand-crafted animations with subtle productivity features, Desktop Rover offers a unique balance: a charming virtual pet that respects your focus while adding a touch of personality to your daily routine.
 
----
+<br>
 
 ## 3. Key Features
 
@@ -70,10 +70,11 @@ Click the Dog Icon (🐶) in your macOS Menu Bar to open Rover's control station
     * Recovering: Forces Rover's post-heat yawn and sat sigh of relief.
 * __Quit Rover__: Quit the app.
 
-   
+<br>
+
 ![Rover Menu](https://raw.githubusercontent.com/barshasantak/rover/main/rover_menu.jpg)
 
----
+<br>
 
 ## 4. Why Desktop Rover is Different
 
@@ -85,7 +86,7 @@ Unlike traditional desktop widgets or static screen pets, Desktop Rover is built
 
 📺 Watch a 20 second preview on YouTube: [Desktop Rover](https://youtu.be/CN7QARjibgc?si=oHKnoX6924XBDhWj)
  
----
+<br>
 
 ## 5. User Experience Highlights
 
@@ -101,7 +102,7 @@ During long hours of writing or development, Rover finds a quiet spot near the c
 ### The Quiet Companion
 During late-night study or development sessions, Rover finds a cozy corner of your desktop, ever vigilant and always upto something, a silent companion in the quiet hours of the night.
 
----
+<br>
 
 ## 6. Closing Call-to-Action
 
@@ -110,15 +111,14 @@ Your desktop doesn’t have to feel like just another tool. Bring a little more 
 
 ### Adopt Rover and discover the difference a loyal companion makes: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/rover/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-rover/id6783631987?mt=12)
 
----
+<br>
 
 ## 7. Help and Support
 
 ### Report Issues
 You can report any issues here: [https://github.com/barshasantak/rover/issues](https://github.com/barshasantak/rover/issues)
  
- 
----
+<br>
  
 🐱 Love cats? Meet Desktop [Felix](https://barshasantak.github.io/felix/), your new digital companion.
  
