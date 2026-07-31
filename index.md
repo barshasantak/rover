@@ -27,19 +27,37 @@ By combining fluid, hand-crafted animations with subtle productivity features, D
 
 ## 3. Key Features
 
-### Living Desktop Presence
-Rover moves naturally across your screen, navigating around your open windows and settling down in empty spaces. He responds to your actual desktop environment, making your workspace feel dynamic and alive.
+### 🩺 Healthy Work Habits
 
-### Subtle Productivity Partners
-Stay balanced throughout your workday. Rover can assist with customizable focus sessions, gently nudging you when it’s time to take a screen break, stretch, or hydrate, helping you maintain a healthier workflow.
+Work smarter, not longer.
 
-### Interactive Moments of Calm
-Whenever you need a brief pause from work, you can interact with Rover or simply watch his animations reactions and previews.
+Rover and Felix gently help you build healthier work routines with customizable focus sessions and thoughtful reminders. Whether it's time to rest your eyes, stretch, hydrate, or simply step away for a moment, they encourage sustainable productivity without interrupting your flow.
 
-### Native macOS Integration
-Built specifically for macOS, Desktop Rover operates with a light footprint. It monitors system resources, works harmoniously with multiple displays, and features an elegant menu bar controller for quick, unobtrusive customization.
+### 🖥 A Living Desktop
 
-### The Mischief Menu
+A desktop with personality.
+
+Beautifully crafted animations give your Mac a sense of personality. Rover and Felix move naturally around your desktop, creating a workspace that feels warm, dynamic, and delightfully alive without getting in your way.
+
+### ⚡ Smart System Awareness
+
+Quietly looking after your Mac.
+
+Keep an eye on your Mac's health with lightweight system monitoring and intuitive menu bar controls. Rover and Felix quietly monitor system activity while remaining remarkably efficient, so they integrate seamlessly into your workflow without slowing your Mac down.
+
+### ☕ Stay Awake When You Need It
+
+Sleep when you do—not when your Mac decides to.
+
+Downloading large files, running long builds, giving a presentation, or processing hours of video? With a single click, Rover and Felix can prevent your Mac from sleeping until the job is done.
+
+### 😊 Tiny Moments of Joy
+
+Because every Mac deserves a companion.
+
+Not every productivity tool needs another notification. Sometimes all it takes is a curious cat or a loyal dog quietly sharing your workspace, bringing a smile during long days and making every moment at your Mac just a little more enjoyable.
+
+### 🐕 The Mischief Menu
 Click the Dog Icon (🐶) in your macOS Menu Bar to open Rover's control station:
 
 * __About Rover__: Opens a clean, retro-styled window displaying versioning, copyright information, and a custom close button.
@@ -84,7 +102,7 @@ Unlike traditional desktop widgets or static screen pets, Desktop Rover is built
 * **Crafted, Organic Motion:** Every movement is designed to feel natural and endearing. The physics engine ensures smooth transitions, making his presence feel tangible and integrated into your daily workspace.
 * **Elegant Utility:** By merging the emotional appeal of a virtual pet with practical tools like break reminders and timers, Desktop Rover serves a dual purpose as both a companion and a wellness aid.
 
-📺 Watch a 22 second preview on YouTube: [Desktop Rover](https://youtu.be/CN7QARjibgc?si=oHKnoX6924XBDhWj)
+📺 Watch a 22-seconds preview on YouTube: [Desktop Rover](https://youtu.be/CN7QARjibgc?si=oHKnoX6924XBDhWj)
  
 <br>
 
