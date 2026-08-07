@@ -102,7 +102,7 @@ Unlike traditional desktop widgets or static screen pets, Desktop Rover is built
 * **Crafted, Organic Motion:** Every movement is designed to feel natural and endearing. The physics engine ensures smooth transitions, making his presence feel tangible and integrated into your daily workspace.
 * **Elegant Utility:** By merging the emotional appeal of a virtual pet with practical tools like break reminders and timers, Desktop Rover serves a dual purpose as both a companion and a wellness aid.
 
-📺 Watch a 22-seconds preview on YouTube: [Desktop Rover](https://youtu.be/CN7QARjibgc?si=oHKnoX6924XBDhWj)
+📺 Watch a 22-seconds preview on YouTube: [Desktop Rover](https://youtu.be/CN7QARjibgc?si=oHKnoX6924XBDhWj){:target="_blank"}
  
 <br>
 
@@ -127,18 +127,18 @@ During late-night study or development sessions, Rover finds a cozy corner of yo
 ### Warm up your workspace.
 Your desktop doesn’t have to feel like just another tool. Bring a little more joy, balance, and companionship to your daily workflow. 
 
-### Adopt Rover and discover the difference a loyal companion makes: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/rover/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-rover/id6783631987?mt=12)
+### Adopt Rover and discover the difference a loyal companion makes: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/rover/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-rover/id6783631987?mt=12){:target="_blank"}
 
 <br>
 
 ## 7. Help and Support
 
 ### Report Issues
-You can report any issues here: [https://github.com/barshasantak/rover/issues](https://github.com/barshasantak/rover/issues)
+You can report any issues here: [https://github.com/barshasantak/rover/issues](https://github.com/barshasantak/rover/issues){:target="_blank"}
   
 <br>
   
-🐱 Love cats? Meet Desktop [Felix](https://barshasantak.github.io/felix/), your new digital companion.
+🐱 Love cats? Meet Desktop [Felix](https://barshasantak.github.io/felix/){:target="_blank"}, your new digital companion.
  
  <br>
  
