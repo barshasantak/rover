@@ -19,7 +19,7 @@ Desktop Rover was created to bring warmth back to the digital canvas.
 
 It is a premium macOS companion designed to live alongside your workflow. Rover is not a demanding game or a distracting pop-up; instead, he is a gentle, living presence on your screen. 
 
-Whether he is napping on top of your active window, pacing across your Dock, or curling up to rest during a deep-work session, Rover turns screen time into shared time. 
+Whether he is napping on top of your active window, pacing across your dock, or curling up to rest during a deep-work session, Rover turns screen time into shared time. 
 
 By combining fluid, hand-crafted animations with subtle productivity features, Desktop Rover offers a unique balance: a charming virtual pet that respects your focus while adding a touch of personality to your daily routine.
 
